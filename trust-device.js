@@ -2,6 +2,7 @@
  * TrustDeviceJs Pro v3.9.0 - Copyright (c) TrustDeviceJs, Inc, 2024 (https://www.trustdecision.com/solutions/trustdevice)
 */
 (function() {
+    console.log("executing")
     (function(QQ0OoQ) {
         function Ooo0Qo(oOQQQ, O0o0O) {
             return oOQQQ <= O0o0O;
